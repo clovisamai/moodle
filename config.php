@@ -24,7 +24,7 @@ $CFG->admin     = 'admin';
 $CFG->directorypermissions = 0777;
 
 $CFG->debug = 2047; 
-$CFG->debugdisplay = 1;
+$CFG->debugdisplay = 0;
 
 require_once(__DIR__ . '/lib/setup.php');
 
